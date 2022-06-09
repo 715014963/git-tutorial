@@ -5,3 +5,4 @@
 featureA
 fix -b 
 featureC
+featureD
