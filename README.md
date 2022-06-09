@@ -4,4 +4,4 @@
 
 featureA
 fix -b 
-
+featureC
